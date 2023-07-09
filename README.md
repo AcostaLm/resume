@@ -9,7 +9,7 @@
 
 ## Información de contacto
 - LinkedIn: [/in/luis-acosta1](https://www.linkedin.com/in/luis-acosta1/) 
-- Correo electrónico: acosta.luism@gmail.com
+- Correo electrónico: acosta.luism6@gmail.com
 
 ## Resumen profesional
 Soy un desarrollador web apasionado por escribir código limpio y estructurado, lo cual considero fundamental para la mantenibilidad y escalabilidad de cualquier proyecto. Con 4 años de experiencia en desarrollo Laravel (anteriormente otros 2 años en proyectos con Codeigniter y PHP Nativo), estoy comprometido a ofrecer soluciones innovadoras y efectivas que satisfagan las necesidades de los clientes.
